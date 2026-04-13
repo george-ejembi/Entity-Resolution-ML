@@ -1,0 +1,503 @@
+record_id,entity_name,entity_type,address,city,state,source
+REC-0001,John A. Smith,person,4521 Elm St,Dallas,TX,county_assessor
+REC-0002,"Lone Star Property Holdings LLC",company,100 Crescent Ct,Dallas,TX,state_sos
+REC-0003,Maria Elena Garcia,person,8910 Mockingbird Ln,Houston,TX,county_assessor
+REC-0004,"Gulf Coast Investments LLC",company,2200 Post Oak Blvd,Houston,TX,state_sos
+REC-0005,Robert Lee Johnson,person,2345 Oak Lawn Ave,Dallas,TX,county_assessor
+REC-0006,"Bluebonnet Realty Group Inc",company,600 Congress Ave,Austin,TX,state_sos
+REC-0007,Patricia Ann Williams,person,567 Cedar Springs Rd,Dallas,TX,county_clerk
+REC-0008,"4521 Elm Holdings LLC",company,4521 Elm St,Dallas,TX,state_sos
+REC-0009,David W. Chen,person,1200 McKinney St,Houston,TX,county_assessor
+REC-0010,"Trinity Capital Partners LP",company,3000 Turtle Creek Blvd,Dallas,TX,sec_edgar
+REC-0011,Angela Marie Brown,person,3400 Westheimer Rd,Houston,TX,county_assessor
+REC-0012,"Magnolia Court Apartments LLC",company,1800 Allen Pkwy,Houston,TX,state_sos
+REC-0013,James T. Wilson,person,901 Congress Ave,Austin,TX,county_clerk
+REC-0014,"Pecan Street Properties LLC",company,1000 E 6th St,Austin,TX,state_sos
+REC-0015,Sandra L. Martinez,person,7788 Greenville Ave,Dallas,TX,county_assessor
+REC-0016,"DFW Property Management Inc",company,5000 Spring Valley Rd,Dallas,TX,state_sos
+REC-0017,Michael Ray Thompson,person,455 Lamar Blvd,Austin,TX,county_assessor
+REC-0018,"Heights Residential Group LLC",company,1900 Heights Blvd,Houston,TX,state_sos
+REC-0019,Jennifer K. Davis,person,3210 Harry Hines Blvd,Dallas,TX,county_clerk
+REC-0020,"Live Oak Capital LLC",company,400 W 15th St,Austin,TX,sec_edgar
+REC-0021,William H. Anderson,person,8800 N Central Expy,Dallas,TX,county_assessor
+REC-0022,"Preston Hollow Investments LP",company,6300 N Central Expy,Dallas,TX,sec_edgar
+REC-0023,Lisa M. Taylor,person,1500 Guadalupe St,Austin,TX,county_assessor
+REC-0024,"Bayou City Holdings LLC",company,2300 Richmond Ave,Houston,TX,state_sos
+REC-0025,Charles E. Harris,person,6200 Hillcrest Ave,Dallas,TX,county_clerk
+REC-0026,"South Congress Realty LLC",company,2400 S Congress Ave,Austin,TX,state_sos
+REC-0027,Nancy J. Clark,person,950 Bagby St,Houston,TX,county_assessor
+REC-0028,"Uptown Dallas Partners LLC",company,2901 McKinney Ave,Dallas,TX,state_sos
+REC-0029,Kevin D. Lewis,person,2100 Ross Ave,Dallas,TX,county_assessor
+REC-0030,"Energy Corridor Properties Inc",company,14200 Memorial Dr,Houston,TX,state_sos
+REC-0031,Donna Mae Robinson,person,4400 Post Oak Blvd,Houston,TX,county_clerk
+REC-0032,"Barton Creek Ventures LLC",company,3300 Bee Cave Rd,Austin,TX,state_sos
+REC-0033,Steven P. Walker,person,777 S Lamar Blvd,Austin,TX,county_assessor
+REC-0034,"Cedar Hill Management LLC",company,700 S Hampton Rd,Dallas,TX,state_sos
+REC-0035,Dorothy R. Hall,person,3300 Knox St,Dallas,TX,county_assessor
+REC-0036,"Montrose Apartments LLC",company,4100 Montrose Blvd,Houston,TX,state_sos
+REC-0037,George M. Washington,person,500 Fannin St,Houston,TX,county_clerk
+REC-0038,"Mueller Development Group Inc",company,4500 Mueller Blvd,Austin,TX,state_sos
+REC-0039,Barbara S. Allen,person,2800 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0040,"Turtle Creek Investments LP",company,3500 Turtle Creek Blvd,Dallas,TX,sec_edgar
+REC-0041,Thomas G. Moore,person,1800 E 6th St,Austin,TX,county_assessor
+REC-0042,"Memorial Partners LLC",company,9200 Memorial Dr,Houston,TX,state_sos
+REC-0043,Carol Ann Jackson,person,9100 N Central Expy,Dallas,TX,county_clerk
+REC-0044,"Rainey Street Holdings LLC",company,80 Rainey St,Austin,TX,state_sos
+REC-0045,Ronald F. White,person,600 Travis St,Houston,TX,county_assessor
+REC-0046,"Deep Ellum Properties LLC",company,2600 Main St,Dallas,TX,state_sos
+REC-0047,Michelle D. Young,person,2200 W 7th St,Fort Worth,TX,county_assessor
+REC-0048,"Galleria Area Holdings Inc",company,5100 Westheimer Rd,Houston,TX,state_sos
+REC-0049,Kenneth R. Scott,person,1100 Louisiana St,Houston,TX,county_clerk
+REC-0050,"Zilker Park Capital LLC",company,1600 Barton Springs Rd,Austin,TX,sec_edgar
+REC-0051,"SMITH, JOHN",person,4521 Elm Street,Dallas,TX,tax_records
+REC-0052,"LONE STAR PROPERTY HOLDINGS",company,100 Crescent Court,Dallas,TX,tax_records
+REC-0053,"GARCIA, MARIA E.",person,8910 Mockingbird Lane,Houston,TX,tax_records
+REC-0054,"GULF COAST INVESTMENTS",company,2200 Post Oak Boulevard,Houston,TX,tax_records
+REC-0055,"JOHNSON, ROBERT L",person,2345 Oak Lawn Avenue,Dallas,TX,tax_records
+REC-0056,"BLUEBONNET REALTY GROUP",company,600 Congress Avenue,Austin,TX,tax_records
+REC-0057,"WILLIAMS, PATRICIA",person,567 Cedar Springs Road,Dallas,TX,tax_records
+REC-0058,"4521 ELM HOLDINGS",company,4521 Elm Street,Dallas,TX,tax_records
+REC-0059,"CHEN, DAVID",person,1200 McKinney Street,Houston,TX,tax_records
+REC-0060,"TRINITY CAPITAL PARTNERS",company,3000 Turtle Creek Boulevard,Dallas,TX,tax_records
+REC-0061,"BROWN, ANGELA M",person,3400 Westheimer Road,Houston,TX,tax_records
+REC-0062,"MAGNOLIA COURT APTS LLC",company,1800 Allen Parkway,Houston,TX,tax_records
+REC-0063,"WILSON, JAMES",person,901 Congress Avenue,Austin,TX,tax_records
+REC-0064,"PECAN STREET PROPERTIES",company,1000 East 6th Street,Austin,TX,tax_records
+REC-0065,"MARTINEZ, SANDRA",person,7788 Greenville Avenue,Dallas,TX,tax_records
+REC-0066,"DFW PROPERTY MANAGEMENT",company,5000 Spring Valley Road,Dallas,TX,tax_records
+REC-0067,"THOMPSON, MICHAEL R.",person,455 Lamar Boulevard,Austin,TX,tax_records
+REC-0068,"HEIGHTS RESIDENTIAL GROUP",company,1900 Heights Boulevard,Houston,TX,tax_records
+REC-0069,"DAVIS, JENNIFER",person,3210 Harry Hines Boulevard,Dallas,TX,tax_records
+REC-0070,"LIVE OAK CAPITAL",company,400 West 15th Street,Austin,TX,tax_records
+REC-0071,"ANDERSON, WILLIAM",person,8800 North Central Expressway,Dallas,TX,tax_records
+REC-0072,"PRESTON HOLLOW INVESTMENTS",company,6300 North Central Expressway,Dallas,TX,tax_records
+REC-0073,"TAYLOR, LISA",person,1500 Guadalupe Street,Austin,TX,tax_records
+REC-0074,"BAYOU CITY HOLDINGS",company,2300 Richmond Avenue,Houston,TX,tax_records
+REC-0075,"HARRIS, CHARLES",person,6200 Hillcrest Avenue,Dallas,TX,tax_records
+REC-0076,"SOUTH CONGRESS REALTY",company,2400 South Congress Avenue,Austin,TX,tax_records
+REC-0077,"CLARK, NANCY",person,950 Bagby Street,Houston,TX,tax_records
+REC-0078,"UPTOWN DALLAS PARTNERS",company,2901 McKinney Avenue,Dallas,TX,tax_records
+REC-0079,"LEWIS, KEVIN",person,2100 Ross Avenue,Dallas,TX,tax_records
+REC-0080,"ENERGY CORRIDOR PROPERTIES",company,14200 Memorial Drive,Houston,TX,tax_records
+REC-0081,"ROBINSON, DONNA M.",person,4400 Post Oak Boulevard,Houston,TX,tax_records
+REC-0082,"BARTON CREEK VENTURES",company,3300 Bee Cave Road,Austin,TX,tax_records
+REC-0083,"WALKER, STEVEN",person,777 South Lamar Boulevard,Austin,TX,tax_records
+REC-0084,"CEDAR HILL MANAGEMENT",company,700 South Hampton Road,Dallas,TX,tax_records
+REC-0085,"HALL, DOROTHY",person,3300 Knox Street,Dallas,TX,tax_records
+REC-0086,"MONTROSE APARTMENTS",company,4100 Montrose Boulevard,Houston,TX,tax_records
+REC-0087,"WASHINGTON, GEORGE",person,500 Fannin Street,Houston,TX,tax_records
+REC-0088,"MUELLER DEVELOPMENT GROUP",company,4500 Mueller Boulevard,Austin,TX,tax_records
+REC-0089,"ALLEN, BARBARA",person,2800 Turtle Creek Boulevard,Dallas,TX,tax_records
+REC-0090,"TURTLE CREEK INVESTMENTS",company,3500 Turtle Creek Boulevard,Dallas,TX,tax_records
+REC-0091,"MOORE, THOMAS",person,1800 East 6th Street,Austin,TX,tax_records
+REC-0092,"MEMORIAL PARTNERS",company,9200 Memorial Drive,Houston,TX,tax_records
+REC-0093,"JACKSON, CAROL",person,9100 North Central Expressway,Dallas,TX,tax_records
+REC-0094,"RAINEY STREET HOLDINGS",company,80 Rainey Street,Austin,TX,tax_records
+REC-0095,"WHITE, RONALD",person,600 Travis Street,Houston,TX,tax_records
+REC-0096,"DEEP ELLUM PROPERTIES",company,2600 Main Street,Dallas,TX,tax_records
+REC-0097,"YOUNG, MICHELLE",person,2200 West 7th Street,Fort Worth,TX,tax_records
+REC-0098,"GALLERIA AREA HOLDINGS",company,5100 Westheimer Road,Houston,TX,tax_records
+REC-0099,"SCOTT, KENNETH",person,1100 Louisiana Street,Houston,TX,tax_records
+REC-0100,"ZILKER PARK CAPITAL",company,1600 Barton Springs Road,Austin,TX,tax_records
+REC-0101,J. Smith,person,4521 Elm St.,Dallas,TX,county_clerk
+REC-0102,"Lone Star Prop Holdings LLC",company,100 Crescent Ct,Dallas,TX,county_assessor
+REC-0103,M. Garcia,person,8910 Mockingbird Ln,Houston,TX,county_clerk
+REC-0104,"Gulf Coast Invest LLC",company,2200 Post Oak Blvd,Houston,TX,county_assessor
+REC-0105,R. Johnson,person,2345 Oak Lawn Ave,Dallas,TX,county_clerk
+REC-0106,"Bluebonnet Realty Grp Inc",company,600 Congress Ave,Austin,TX,county_assessor
+REC-0107,P. Williams,person,567 Cedar Springs Rd,Dallas,TX,county_assessor
+REC-0108,"4521 Elm St Holdings LLC",company,4521 Elm St,Dallas,TX,county_assessor
+REC-0109,D. Chen,person,"1200 McKinney St, Suite 800",Houston,TX,sec_edgar
+REC-0110,"Trinity Cap Partners LP",company,3000 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0111,A. Brown,person,3400 Westheimer Rd,Houston,TX,county_clerk
+REC-0112,"Magnolia Ct Apartments LLC",company,1800 Allen Pkwy,Houston,TX,county_assessor
+REC-0113,J. Wilson,person,901 Congress Ave,Austin,TX,county_assessor
+REC-0114,"Pecan St Properties LLC",company,1000 E 6th St,Austin,TX,county_assessor
+REC-0115,S. Martinez,person,7788 Greenville Ave,Dallas,TX,county_clerk
+REC-0116,"DFW Prop Mgmt Inc",company,5000 Spring Valley Rd,Dallas,TX,county_assessor
+REC-0117,M. Thompson,person,455 Lamar Blvd,Austin,TX,county_clerk
+REC-0118,"Heights Residential Grp LLC",company,1900 Heights Blvd,Houston,TX,county_assessor
+REC-0119,J. Davis,person,3210 Harry Hines Blvd,Dallas,TX,county_assessor
+REC-0120,"Live Oak Cap LLC",company,400 W 15th St,Austin,TX,county_assessor
+REC-0121,W. Anderson,person,8800 N Central Expy,Dallas,TX,county_clerk
+REC-0122,"Preston Hollow Invest LP",company,6300 N Central Expy,Dallas,TX,county_assessor
+REC-0123,L. Taylor,person,1500 Guadalupe St,Austin,TX,county_clerk
+REC-0124,"Bayou City Hldgs LLC",company,2300 Richmond Ave,Houston,TX,county_assessor
+REC-0125,C. Harris,person,6200 Hillcrest Ave,Dallas,TX,county_assessor
+REC-0126,"S Congress Realty LLC",company,2400 S Congress Ave,Austin,TX,county_assessor
+REC-0127,N. Clark,person,950 Bagby St,Houston,TX,county_clerk
+REC-0128,"Uptown Dallas Prtners LLC",company,2901 McKinney Ave,Dallas,TX,county_assessor
+REC-0129,K. Lewis,person,2100 Ross Ave,Dallas,TX,county_clerk
+REC-0130,"Energy Corridor Props Inc",company,14200 Memorial Dr,Houston,TX,county_assessor
+REC-0131,D. Robinson,person,4400 Post Oak Blvd,Houston,TX,county_assessor
+REC-0132,"Barton Creek Vent LLC",company,3300 Bee Cave Rd,Austin,TX,county_assessor
+REC-0133,S. Walker,person,777 S Lamar Blvd,Austin,TX,county_clerk
+REC-0134,"Cedar Hill Mgmt LLC",company,700 S Hampton Rd,Dallas,TX,county_assessor
+REC-0135,D. Hall,person,3300 Knox St,Dallas,TX,county_clerk
+REC-0136,"Montrose Apts LLC",company,4100 Montrose Blvd,Houston,TX,county_assessor
+REC-0137,G. Washington,person,500 Fannin St,Houston,TX,county_assessor
+REC-0138,"Mueller Dev Group Inc",company,4500 Mueller Blvd,Austin,TX,county_assessor
+REC-0139,B. Allen,person,2800 Turtle Creek Blvd,Dallas,TX,county_clerk
+REC-0140,"Turtle Creek Invest LP",company,3500 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0141,T. Moore,person,1800 E 6th St,Austin,TX,county_clerk
+REC-0142,"Memorial Partners",company,9200 Memorial,Houston,TX,county_assessor
+REC-0143,C. Jackson,person,9100 N Central Expy,Dallas,TX,county_assessor
+REC-0144,"Rainey St Holdings LLC",company,80 Rainey St,Austin,TX,county_assessor
+REC-0145,R. White,person,600 Travis St,Houston,TX,county_clerk
+REC-0146,"Deep Ellum Props LLC",company,2600 Main St,Dallas,TX,county_assessor
+REC-0147,M. Young,person,2200 W 7th St,Fort Worth,TX,county_clerk
+REC-0148,"Galleria Area Hldgs Inc",company,5100 Westheimer Rd,Houston,TX,county_assessor
+REC-0149,K. Scott,person,1100 Louisiana St,Houston,TX,county_assessor
+REC-0150,"Zilker Pk Capital LLC",company,1600 Barton Springs Rd,Austin,TX,county_assessor
+REC-0151,John Smith,person,4521 Elm St,Dallas,TX,state_sos
+REC-0152,"Lone Star Property Holdings",company,"100 Crescent Ct, Ste 300",Dallas,TX,sec_edgar
+REC-0153,Maria Garcia,person,"8910 Mockingbird Ln, Apt 4B",Houston,TX,state_sos
+REC-0154,"Gulf Coast Investments",company,"2200 Post Oak Blvd, Ste 1400",Houston,TX,sec_edgar
+REC-0155,Robert Johnson,person,2345 Oak Lawn,Dallas,TX,state_sos
+REC-0156,"Blue Bonnet Realty Group",company,600 Congress Ave,Austin,TX,county_clerk
+REC-0157,Pat Williams,person,567 Cedar Springs,Dallas,TX,state_sos
+REC-0158,"Four Five Two One Elm Holdings",company,4521 Elm St,Dallas,TX,county_clerk
+REC-0159,David Chen,person,1200 McKinney,Houston,TX,state_sos
+REC-0160,"Trinity Capital Prtners LP",company,3000 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0161,Angela Brown,person,3400 Westheimer,Houston,TX,state_sos
+REC-0162,"Magnolia Court Apartments",company,1800 Allen Pkwy,Houston,TX,county_clerk
+REC-0163,James Wilson,person,"901 Congress Ave, Ste 200",Austin,TX,state_sos
+REC-0164,"Pecan Street Props LLC",company,1000 E. 6th St,Austin,TX,county_clerk
+REC-0165,Sandra Martinez,person,,Dallas,TX,state_sos
+REC-0166,"DFW Property Management Inc.",company,,Dallas,TX,sec_edgar
+REC-0167,Michael Thompson,person,455 Lamar Blvd,Austin,TX,state_sos
+REC-0168,"Heights Residential Group",company,1900 Heights,Houston,TX,county_clerk
+REC-0169,Jennifer Davis,person,3210 Harry Hines,Dallas,TX,state_sos
+REC-0170,"LiveOak Capital LLC",company,400 W. 15th,Austin,TX,county_clerk
+REC-0171,Bill Anderson,person,8800 N Central,Dallas,TX,state_sos
+REC-0172,"Preston Hollow Investments",company,6300 N. Central Expy,Dallas,TX,sec_edgar
+REC-0173,Lisa Taylor,person,1500 Guadalupe,Austin,TX,state_sos
+REC-0174,"Bayou City Holdings",company,2300 Richmond,Houston,TX,county_clerk
+REC-0175,Charles Harris,person,,Dallas,TX,state_sos
+REC-0176,"South Congress Realty",company,2400 S. Congress Ave,Austin,TX,county_clerk
+REC-0177,Nancy Clark,person,950 Bagby St,Houston,TX,state_sos
+REC-0178,"Uptown Dallas Partners",company,2901 McKinney,Dallas,TX,county_clerk
+REC-0179,Kevin Lewis,person,2100 Ross,Dallas,TX,state_sos
+REC-0180,"Energy Corridor Properties Inc.",company,14200 Memorial,Houston,TX,sec_edgar
+REC-0181,"Donna Robinson",person,"4400 Post Oak Blvd, Ste 1600",Houston,TX,state_sos
+REC-0182,"Barton Creek Ventures",company,3300 Bee Caves Rd,Austin,TX,county_clerk
+REC-0183,Steve Walker,person,777 S. Lamar,Austin,TX,state_sos
+REC-0184,Dorothy Hall,person,3300 Knox,Dallas,TX,state_sos
+REC-0185,George Washington,person,500 Fannin,Houston,TX,state_sos
+REC-0186,Barbara Allen,person,2800 Turtle Creek,Dallas,TX,state_sos
+REC-0187,Tom Moore,person,1800 E. 6th,Austin,TX,state_sos
+REC-0188,Carol Jackson,person,9100 N Central,Dallas,TX,state_sos
+REC-0189,Ron White,person,600 Travis St,Houston,TX,state_sos
+REC-0190,Michelle Young,person,2200 W. 7th,Fort Worth,TX,state_sos
+REC-0191,Kenneth Scott,person,1100 Louisiana,Houston,TX,state_sos
+REC-0192,Jim Wilson,person,901 Congress,Austin,TX,state_sos
+REC-0193,Rob Johnson,person,2345 Oak Lawn Ave,Dallas,TX,county_clerk
+REC-0194,William Anderson,person,8800 N. Central Expy,Dallas,TX,state_sos
+REC-0195,Thomas Moore,person,1800 E 6th St,Austin,TX,county_assessor
+REC-0196,Ronald White,person,600 Travis,Houston,TX,county_assessor
+REC-0197,John Smith Jr.,person,,Dallas,TX,county_clerk
+REC-0198,Dvaid Chen,person,1200 McKinney St,Houston,TX,county_clerk
+REC-0199,Micheal Thompson,person,455 Lamar,Austin,TX,county_clerk
+REC-0200,Charls Harris,person,6200 Hillcrest Ave,Dallas,TX,county_clerk
+REC-0201,Donna Robinso,person,4400 Post Oak Blvd,Houston,TX,county_clerk
+REC-0202,Goerge Washington,person,500 Fannin St,Houston,TX,county_clerk
+REC-0203,Ed Wright,person,800 Brazos,Austin,TX,state_sos
+REC-0204,Ray Carter,person,5100 Beltline Rd,Dallas,TX,state_sos
+REC-0205,Keneth Scott,person,1100 Louisiana St,Houston,TX,county_clerk
+REC-0206,Eugne Collins,person,200 E 6th St,Austin,TX,county_clerk
+REC-0207,Virgina Sanchez,person,3800 S 1st St,Austin,TX,county_clerk
+REC-0208,Amanda Philips,person,700 Lavaca St,Austin,TX,county_clerk
+REC-0209,Bety Campbell,person,1900 McKinney Ave,Dallas,TX,county_clerk
+REC-0210,"Lonestar Property Holdings LLC",company,100 Crescent Ct,Dallas,TX,county_clerk
+REC-0211,"Bluebonnet Realty Group Inc.",company,600 Congress,Austin,TX,sec_edgar
+REC-0212,"D.F.W. Property Management",company,5000 Spring Valley Rd,Dallas,TX,county_clerk
+REC-0213,"Bayou Cty Holdings LLC",company,2300 Richmond Ave,Houston,TX,county_clerk
+REC-0214,"Enregy Corridor Properties",company,14200 Memorial Dr,Houston,TX,county_clerk
+REC-0215,"DeepEllum Properties LLC",company,2600 Main,Dallas,TX,county_clerk
+REC-0216,"Lakewood Residentail LLC",company,6400 Gaston Ave,Dallas,TX,county_clerk
+REC-0217,Stephanie L. King,person,3500 Maple Ave,Dallas,TX,county_assessor
+REC-0218,Edward J. Wright,person,800 Brazos St,Austin,TX,county_assessor
+REC-0219,Karen A. Lopez,person,5500 Richmond Ave,Houston,TX,county_assessor
+REC-0220,Brian C. Turner,person,4100 Cedar Springs Rd,Dallas,TX,county_assessor
+REC-0221,Amanda R. Phillips,person,700 Lavaca St,Austin,TX,county_assessor
+REC-0222,Larry T. Nguyen,person,3600 Main St,Houston,TX,county_assessor
+REC-0223,Betty Jo Campbell,person,1900 McKinney Ave,Dallas,TX,county_assessor
+REC-0224,Frank W. Mitchell,person,2500 San Jacinto St,Houston,TX,county_assessor
+REC-0225,Cynthia M. Perez,person,4800 S Congress Ave,Austin,TX,county_assessor
+REC-0226,Raymond S. Carter,person,5100 Belt Line Rd,Dallas,TX,county_assessor
+REC-0227,Shirley A. Evans,person,3100 Kirby Dr,Houston,TX,county_assessor
+REC-0228,Eugene P. Collins,person,200 E 6th St,Austin,TX,county_assessor
+REC-0229,Ruth E. Stewart,person,6600 Hillcrest Ave,Dallas,TX,county_assessor
+REC-0230,Harold B. Morris,person,1400 Smith St,Houston,TX,county_assessor
+REC-0231,Virginia C. Sanchez,person,3800 S 1st St,Austin,TX,county_assessor
+REC-0232,Marcus D. Freeman,person,7200 Preston Rd,Dallas,TX,county_assessor
+REC-0233,Diane L. Howard,person,2900 Westpark Dr,Houston,TX,county_assessor
+REC-0234,Craig N. Russell,person,400 W 2nd St,Austin,TX,county_assessor
+REC-0235,Teresa G. Patterson,person,5800 Forest Ln,Dallas,TX,county_assessor
+REC-0236,Wayne J. Henderson,person,1600 Westheimer Rd,Houston,TX,county_assessor
+REC-0237,Pamela K. Bailey,person,900 W 5th St,Austin,TX,county_assessor
+REC-0238,Russell M. Foster,person,8400 Abrams Rd,Dallas,TX,county_assessor
+REC-0239,Gloria H. Simmons,person,4200 Montrose Blvd,Houston,TX,county_assessor
+REC-0240,Dennis C. Price,person,300 E Riverside Dr,Austin,TX,county_assessor
+REC-0241,Janet F. Ward,person,6100 Greenville Ave,Dallas,TX,county_assessor
+REC-0242,Muhammad Rashid Ali,person,2700 Canton St,Dallas,TX,county_assessor
+REC-0243,Oluwaseun Adeyemi,person,1300 Travis St,Houston,TX,county_assessor
+REC-0244,Wei-Lin Chang,person,500 W 6th St,Austin,TX,county_assessor
+REC-0245,Raj Krishnamurthy,person,8200 Park Ln,Dallas,TX,county_assessor
+REC-0246,Fatima Al-Hassan,person,3900 Montrose Blvd,Houston,TX,county_assessor
+REC-0247,"KING, STEPHANIE",person,3500 Maple Avenue,Dallas,TX,tax_records
+REC-0248,"WRIGHT, EDWARD",person,800 Brazos Street,Austin,TX,tax_records
+REC-0249,"LOPEZ, KAREN",person,5500 Richmond Avenue,Houston,TX,tax_records
+REC-0250,"TURNER, BRIAN",person,4100 Cedar Springs Road,Dallas,TX,tax_records
+REC-0251,"PHILLIPS, AMANDA",person,700 Lavaca Street,Austin,TX,tax_records
+REC-0252,"NGUYEN, LARRY",person,3600 Main Street,Houston,TX,tax_records
+REC-0253,"CAMPBELL, BETTY J.",person,1900 McKinney Avenue,Dallas,TX,tax_records
+REC-0254,"MITCHELL, FRANK",person,2500 San Jacinto Street,Houston,TX,tax_records
+REC-0255,"PEREZ, CYNTHIA",person,4800 South Congress Avenue,Austin,TX,tax_records
+REC-0256,"CARTER, RAYMOND",person,5100 Belt Line Road,Dallas,TX,tax_records
+REC-0257,"EVANS, SHIRLEY",person,3100 Kirby Drive,Houston,TX,tax_records
+REC-0258,"COLLINS, EUGENE",person,200 East 6th Street,Austin,TX,tax_records
+REC-0259,"STEWART, RUTH",person,6600 Hillcrest Avenue,Dallas,TX,tax_records
+REC-0260,"MORRIS, HAROLD",person,1400 Smith Street,Houston,TX,tax_records
+REC-0261,"SANCHEZ, VIRGINIA",person,3800 South 1st Street,Austin,TX,tax_records
+REC-0262,"FREEMAN, MARCUS",person,7200 Preston Road,Dallas,TX,tax_records
+REC-0263,"HOWARD, DIANE",person,2900 Westpark Drive,Houston,TX,tax_records
+REC-0264,"RUSSELL, CRAIG",person,400 West 2nd Street,Austin,TX,tax_records
+REC-0265,"PATTERSON, TERESA",person,5800 Forest Lane,Dallas,TX,tax_records
+REC-0266,"HENDERSON, WAYNE",person,1600 Westheimer Road,Houston,TX,tax_records
+REC-0267,"BAILEY, PAMELA",person,900 West 5th Street,Austin,TX,tax_records
+REC-0268,"FOSTER, RUSSELL",person,8400 Abrams Road,Dallas,TX,tax_records
+REC-0269,"SIMMONS, GLORIA",person,4200 Montrose Boulevard,Houston,TX,tax_records
+REC-0270,"PRICE, DENNIS",person,300 East Riverside Drive,Austin,TX,tax_records
+REC-0271,"WARD, JANET",person,6100 Greenville Avenue,Dallas,TX,tax_records
+REC-0272,"ALI, MUHAMMAD R.",person,2700 Canton Street,Dallas,TX,tax_records
+REC-0273,"ADEYEMI, OLUWASEUN",person,1300 Travis Street,Houston,TX,tax_records
+REC-0274,"CHANG, WEI-LIN",person,500 West 6th Street,Austin,TX,tax_records
+REC-0275,"KRISHNAMURTHY, RAJ",person,8200 Park Lane,Dallas,TX,tax_records
+REC-0276,"AL-HASSAN, FATIMA",person,3900 Montrose Boulevard,Houston,TX,tax_records
+REC-0277,S. King,person,3500 Maple Ave,Dallas,TX,county_clerk
+REC-0278,E. Wright,person,800 Brazos St,Austin,TX,county_clerk
+REC-0279,K. Lopez,person,5500 Richmond Ave,Houston,TX,county_clerk
+REC-0280,B. Turner,person,4100 Cedar Springs Rd,Dallas,TX,county_clerk
+REC-0281,A. Phillips,person,700 Lavaca St,Austin,TX,county_clerk
+REC-0282,L. Nguyen,person,3600 Main St,Houston,TX,county_clerk
+REC-0283,B. Campbell,person,1900 McKinney Ave,Dallas,TX,county_clerk
+REC-0284,F. Mitchell,person,2500 San Jacinto St,Houston,TX,county_clerk
+REC-0285,C. Perez,person,4800 S Congress Ave,Austin,TX,county_clerk
+REC-0286,R. Carter,person,5100 Belt Line Rd,Dallas,TX,county_clerk
+REC-0287,S. Evans,person,3100 Kirby Dr,Houston,TX,county_clerk
+REC-0288,E. Collins,person,200 E 6th St,Austin,TX,county_clerk
+REC-0289,R. Stewart,person,6600 Hillcrest Ave,Dallas,TX,county_clerk
+REC-0290,H. Morris,person,1400 Smith St,Houston,TX,county_clerk
+REC-0291,V. Sanchez,person,3800 S 1st St,Austin,TX,county_clerk
+REC-0292,M. Freeman,person,7200 Preston Rd,Dallas,TX,county_clerk
+REC-0293,D. Howard,person,2900 Westpark Dr,Houston,TX,county_clerk
+REC-0294,C. Russell,person,400 W 2nd St,Austin,TX,county_clerk
+REC-0295,T. Patterson,person,5800 Forest Ln,Dallas,TX,county_clerk
+REC-0296,W. Henderson,person,1600 Westheimer Rd,Houston,TX,county_clerk
+REC-0297,P. Bailey,person,900 W 5th St,Austin,TX,county_clerk
+REC-0298,R. Foster,person,8400 Abrams Rd,Dallas,TX,county_clerk
+REC-0299,G. Simmons,person,4200 Montrose Blvd,Houston,TX,county_clerk
+REC-0300,D. Price,person,300 E Riverside Dr,Austin,TX,county_clerk
+REC-0301,J. Ward,person,6100 Greenville Ave,Dallas,TX,county_clerk
+REC-0302,M.R. Ali,person,2700 Canton St,Dallas,TX,county_clerk
+REC-0303,O. Adeyemi,person,1300 Travis St,Houston,TX,county_clerk
+REC-0304,W. Chang,person,500 W 6th St,Austin,TX,county_clerk
+REC-0305,R. Krishnamurthy,person,8200 Park Ln,Dallas,TX,county_clerk
+REC-0306,F. Al-Hassan,person,3900 Montrose Blvd,Houston,TX,county_clerk
+REC-0307,Stephanie King,person,3500 Maple,Dallas,TX,state_sos
+REC-0308,Edward Wright,person,800 Brazos St,Austin,TX,state_sos
+REC-0309,Karen Lopez,person,5500 Richmond,Houston,TX,state_sos
+REC-0310,Brian Turner,person,4100 Cedar Springs,Dallas,TX,state_sos
+REC-0311,Amanda Phillips,person,700 Lavaca,Austin,TX,state_sos
+REC-0312,Larry Nguyen,person,3600 Main,Houston,TX,state_sos
+REC-0313,Betty Campbell,person,1900 McKinney,Dallas,TX,state_sos
+REC-0314,Frank Mitchell,person,2500 San Jacinto,Houston,TX,state_sos
+REC-0315,Cynthia Perez,person,4800 S. Congress,Austin,TX,state_sos
+REC-0316,Raymond Carter,person,5100 Belt Line,Dallas,TX,state_sos
+REC-0317,Shirley Evans,person,3100 Kirby,Houston,TX,state_sos
+REC-0318,Eugene Collins,person,200 E. 6th,Austin,TX,state_sos
+REC-0319,Ruth Stewart,person,6600 Hillcrest,Dallas,TX,state_sos
+REC-0320,Harold Morris,person,1400 Smith,Houston,TX,state_sos
+REC-0321,Virginia Sanchez,person,3800 S. 1st,Austin,TX,state_sos
+REC-0322,Muhammad Ali,person,2700 Canton,Dallas,TX,state_sos
+REC-0323,Seun Adeyemi,person,1300 Travis,Houston,TX,state_sos
+REC-0324,Weilin Chang,person,500 W. 6th,Austin,TX,state_sos
+REC-0325,Fatima Alhassan,person,3900 Montrose,Houston,TX,state_sos
+REC-0326,Raymond Carter,person,5100 Belt Line Rd,Dallas,TX,county_assessor
+REC-0327,"Lakewood Residential LLC",company,6400 Gaston Ave,Dallas,TX,state_sos
+REC-0328,"LAKEWOOD RESIDENTIAL",company,6400 Gaston Avenue,Dallas,TX,tax_records
+REC-0329,"Lakewood Residential",company,6400 Gaston,Dallas,TX,county_assessor
+REC-0330,"Third Ward Properties LLC",company,3200 Emancipation Ave,Houston,TX,state_sos
+REC-0331,"THIRD WARD PROPERTIES",company,3200 Emancipation Avenue,Houston,TX,tax_records
+REC-0332,"3rd Ward Properties LLC",company,3200 Emancipation Ave,Houston,TX,county_assessor
+REC-0333,"Third Ward Props LLC",company,3200 Emancipation,Houston,TX,county_clerk
+REC-0334,"Domain Capital Group LP",company,11400 Domain Dr,Austin,TX,sec_edgar
+REC-0335,"DOMAIN CAPITAL GROUP",company,11400 Domain Drive,Austin,TX,tax_records
+REC-0336,"Domain Cap Group LP",company,11400 Domain Dr,Austin,TX,county_assessor
+REC-0337,"Oak Cliff Holdings LLC",company,400 W Jefferson Blvd,Dallas,TX,state_sos
+REC-0338,"OAK CLIFF HOLDINGS",company,400 West Jefferson Boulevard,Dallas,TX,tax_records
+REC-0339,"Oak Cliff Hldgs LLC",company,400 W Jefferson Blvd,Dallas,TX,county_assessor
+REC-0340,"Ship Channel Industrial LLC",company,7500 Navigation Blvd,Houston,TX,state_sos
+REC-0341,"SHIP CHANNEL INDUSTRIAL",company,7500 Navigation Boulevard,Houston,TX,tax_records
+REC-0342,"Ship Channel Ind LLC",company,7500 Navigation Blvd,Houston,TX,county_assessor
+REC-0343,"Ship Channel Industrial",company,7500 Navigation,Houston,TX,county_clerk
+REC-0344,"SoCo Ventures LLC",company,1800 S Congress Ave,Austin,TX,state_sos
+REC-0345,"SOCO VENTURES",company,1800 South Congress Avenue,Austin,TX,tax_records
+REC-0346,"So Co Ventures LLC",company,1800 S Congress Ave,Austin,TX,county_assessor
+REC-0347,"Bishop Arts District LLC",company,400 N Bishop Ave,Dallas,TX,state_sos
+REC-0348,"BISHOP ARTS DISTRICT",company,400 North Bishop Avenue,Dallas,TX,tax_records
+REC-0349,"Bishop Arts Dist LLC",company,400 N Bishop Ave,Dallas,TX,county_assessor
+REC-0350,"The Woodlands Capital Group",company,9595 Six Pines Dr,The Woodlands,TX,sec_edgar
+REC-0351,"WOODLANDS CAPITAL GROUP",company,9595 Six Pines Drive,The Woodlands,TX,tax_records
+REC-0352,"Woodlands Cap Group",company,9595 Six Pines Dr,The Woodlands,TX,county_assessor
+REC-0353,"Frisco Development Partners LLC",company,6801 Gaylord Pkwy,Frisco,TX,state_sos
+REC-0354,"FRISCO DEVELOPMENT PARTNERS",company,6801 Gaylord Parkway,Frisco,TX,tax_records
+REC-0355,"Frisco Dev Partners LLC",company,6801 Gaylord Pkwy,Frisco,TX,county_assessor
+REC-0356,"Katy Crossing Properties Inc",company,1200 Pin Oak Rd,Katy,TX,state_sos
+REC-0357,"KATY CROSSING PROPERTIES",company,1200 Pin Oak Road,Katy,TX,tax_records
+REC-0358,"Katy Crossing Props Inc",company,1200 Pin Oak Rd,Katy,TX,county_assessor
+REC-0359,"Midtown Houston Management LLC",company,3100 Main St,Houston,TX,state_sos
+REC-0360,"MIDTOWN HOUSTON MANAGEMENT",company,3100 Main Street,Houston,TX,tax_records
+REC-0361,"Midtown Houston Mgmt LLC",company,3100 Main St,Houston,TX,county_assessor
+REC-0362,"Round Rock Holdings LP",company,200 E Main St,Round Rock,TX,sec_edgar
+REC-0363,"ROUND ROCK HOLDINGS",company,200 East Main Street,Round Rock,TX,tax_records
+REC-0364,"Round Rock Hldgs LP",company,200 E Main St,Round Rock,TX,county_assessor
+REC-0365,"Plano Property Ventures LLC",company,5700 Granite Pkwy,Plano,TX,state_sos
+REC-0366,"PLANO PROPERTY VENTURES",company,5700 Granite Parkway,Plano,TX,tax_records
+REC-0367,"Plano Prop Ventures LLC",company,5700 Granite Pkwy,Plano,TX,county_assessor
+REC-0368,"Arlington Gateway Group Inc",company,1000 Ballpark Way,Arlington,TX,state_sos
+REC-0369,"ARLINGTON GATEWAY GROUP",company,1000 Ballpark Way,Arlington,TX,tax_records
+REC-0370,"Arlington Gateway Grp Inc",company,1000 Ballpark Way,Arlington,TX,county_assessor
+REC-0371,"Sugar Land Estates LLC",company,2700 Town Center Blvd,Sugar Land,TX,state_sos
+REC-0372,"SUGAR LAND ESTATES",company,2700 Town Center Boulevard,Sugar Land,TX,tax_records
+REC-0373,"Sugarland Estates LLC",company,2700 Town Center Blvd,Sugar Land,TX,county_assessor
+REC-0374,"J & M Properties LLC",company,1500 Main St,Dallas,TX,state_sos
+REC-0375,"J&M PROPERTIES",company,1500 Main Street,Dallas,TX,tax_records
+REC-0376,"J and M Properties LLC",company,1500 Main St,Dallas,TX,county_assessor
+REC-0377,"J & M Props LLC",company,1500 Main,Dallas,TX,county_clerk
+REC-0378,"A-1 Property Services Inc",company,800 Capitol St,Houston,TX,state_sos
+REC-0379,"A1 PROPERTY SERVICES",company,800 Capitol Street,Houston,TX,tax_records
+REC-0380,"A-1 Prop Services Inc",company,800 Capitol St,Houston,TX,county_assessor
+REC-0381,"2nd Street Investments LLC",company,200 W 2nd St,Austin,TX,state_sos
+REC-0382,"SECOND STREET INVESTMENTS",company,200 West 2nd Street,Austin,TX,tax_records
+REC-0383,"2nd St Investments LLC",company,200 W 2nd St,Austin,TX,county_assessor
+REC-0384,"Smith & Associates Realty",company,4900 Belt Line Rd,Dallas,TX,state_sos
+REC-0385,"SMITH AND ASSOCIATES REALTY",company,4900 Belt Line Road,Dallas,TX,tax_records
+REC-0386,"Smith & Assoc Realty",company,4900 Belt Line Rd,Dallas,TX,county_assessor
+REC-0387,"TX-100 Holdings LLC",company,10100 Richmond Ave,Houston,TX,state_sos
+REC-0388,"TX100 HOLDINGS",company,10100 Richmond Avenue,Houston,TX,tax_records
+REC-0389,"TX-100 Holdings",company,10100 Richmond Ave,Houston,TX,county_assessor
+REC-0390,Stephanie King,person,3500 Maple Ave,Dallas,TX,county_assessor
+REC-0391,Edward Wright,person,800 Brazos,Austin,TX,county_assessor
+REC-0392,Karen Lopez,person,5500 Richmond Ave,Houston,TX,county_assessor
+REC-0393,Brian Turner,person,4100 Cedar Springs Rd,Dallas,TX,county_assessor
+REC-0394,Amanda Phillips,person,700 Lavaca St,Austin,TX,county_assessor
+REC-0395,Larry Nguyen,person,3600 Main St,Houston,TX,county_assessor
+REC-0396,Betty Campbell,person,1900 McKinney Ave,Dallas,TX,county_assessor
+REC-0397,Frank Mitchell,person,2500 San Jacinto St,Houston,TX,county_assessor
+REC-0398,Cynthia Perez,person,4800 S Congress Ave,Austin,TX,county_assessor
+REC-0399,Raymond S. Carter,person,5100 Belt Line Rd,Dallas,TX,sec_edgar
+REC-0400,Shirley Evans,person,3100 Kirby Dr,Houston,TX,county_assessor
+REC-0401,Eugene Collins,person,200 E 6th St,Austin,TX,county_assessor
+REC-0402,Ruth Stewart,person,6600 Hillcrest Ave,Dallas,TX,county_assessor
+REC-0403,Harold Morris,person,1400 Smith St,Houston,TX,county_assessor
+REC-0404,Virginia Sanchez,person,3800 S 1st St,Austin,TX,county_assessor
+REC-0405,Marcus Freeman,person,7200 Preston Rd,Dallas,TX,state_sos
+REC-0406,Diane Howard,person,2900 Westpark Dr,Houston,TX,state_sos
+REC-0407,Craig Russell,person,400 W 2nd St,Austin,TX,state_sos
+REC-0408,Teresa Patterson,person,5800 Forest Ln,Dallas,TX,state_sos
+REC-0409,Wayne Henderson,person,1600 Westheimer Rd,Houston,TX,state_sos
+REC-0410,Pamela Bailey,person,900 W 5th St,Austin,TX,state_sos
+REC-0411,Russell Foster,person,8400 Abrams Rd,Dallas,TX,state_sos
+REC-0412,Gloria Simmons,person,4200 Montrose Blvd,Houston,TX,state_sos
+REC-0413,Dennis Price,person,300 E Riverside Dr,Austin,TX,state_sos
+REC-0414,Janet Ward,person,6100 Greenville Ave,Dallas,TX,state_sos
+REC-0415,"Lakewood Residential LLC",company,6400 Gaston Ave,Dallas,TX,county_clerk
+REC-0416,"3rd Ward Properties LLC",company,3200 Emancipation Ave,Houston,TX,county_clerk
+REC-0417,"Domain Capital Group LP",company,11400 Domain Dr,Austin,TX,county_assessor
+REC-0418,"Oak Cliff Holdings LLC",company,400 W Jefferson Blvd,Dallas,TX,county_clerk
+REC-0419,"Ship Channel Industrial LLC",company,7500 Navigation Blvd,Houston,TX,sec_edgar
+REC-0420,"SoCo Ventures LLC",company,1800 S Congress Ave,Austin,TX,county_clerk
+REC-0421,"Bishop Arts District LLC",company,400 N Bishop Ave,Dallas,TX,county_clerk
+REC-0422,"The Woodlands Capital Group",company,9595 Six Pines Dr,The Woodlands,TX,state_sos
+REC-0423,"Frisco Development Partners LLC",company,6801 Gaylord Pkwy,Frisco,TX,county_clerk
+REC-0424,"Katy Crossing Properties Inc",company,1200 Pin Oak Rd,Katy,TX,county_clerk
+REC-0425,"Midtown Houston Management LLC",company,3100 Main St,Houston,TX,county_clerk
+REC-0426,"Round Rock Holdings LP",company,200 E Main St,Round Rock,TX,county_assessor
+REC-0427,"Plano Property Ventures LLC",company,5700 Granite Pkwy,Plano,TX,county_clerk
+REC-0428,"Arlington Gateway Group Inc",company,1000 Ballpark Way,Arlington,TX,county_clerk
+REC-0429,"Sugar Land Estates LLC",company,2700 Town Center Blvd,Sugar Land,TX,county_clerk
+REC-0430,"J & M Properties LLC",company,1500 Main St,Dallas,TX,sec_edgar
+REC-0431,"A-1 Property Services Inc",company,800 Capitol St,Houston,TX,county_clerk
+REC-0432,"2nd Street Investments LLC",company,200 W 2nd St,Austin,TX,county_clerk
+REC-0433,"Smith & Associates Realty",company,4900 Belt Line Rd,Dallas,TX,county_clerk
+REC-0434,"TX-100 Holdings LLC",company,10100 Richmond Ave,Houston,TX,sec_edgar
+REC-0435,Muhammad Ali,person,2700 Canton St,Dallas,TX,county_assessor
+REC-0436,Seun Adeyemi,person,1300 Travis St,Houston,TX,county_assessor
+REC-0437,Weilin Chang,person,500 W 6th St,Austin,TX,county_assessor
+REC-0438,Fatima Alhassan,person,3900 Montrose Blvd,Houston,TX,county_assessor
+REC-0439,Raj Krishnamurthy,person,8200 Park Ln,Dallas,TX,state_sos
+REC-0440,"Lone Star Property Holdings LLC",company,100 Crescent Ct,Dallas,TX,county_assessor
+REC-0441,"Gulf Coast Investments LLC",company,2200 Post Oak Blvd,Houston,TX,county_assessor
+REC-0442,"Trinity Capital Partners LP",company,3000 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0443,"Bayou City Holdings LLC",company,2300 Richmond Ave,Houston,TX,sec_edgar
+REC-0444,"Energy Corridor Properties Inc",company,14200 Memorial Dr,Houston,TX,county_assessor
+REC-0445,"Deep Ellum Properties LLC",company,2600 Main St,Dallas,TX,sec_edgar
+REC-0446,"Uptown Dallas Partners LLC",company,2901 McKinney Ave,Dallas,TX,sec_edgar
+REC-0447,"Barton Creek Ventures LLC",company,3300 Bee Cave Rd,Austin,TX,county_assessor
+REC-0448,"Heights Residential Group LLC",company,1900 Heights Blvd,Houston,TX,sec_edgar
+REC-0449,"Pecan Street Properties LLC",company,1000 E 6th St,Austin,TX,sec_edgar
+REC-0450,"Preston Hollow Investments LP",company,6300 N Central Expy,Dallas,TX,county_assessor
+REC-0451,"Magnolia Court Apartments LLC",company,1800 Allen Pkwy,Houston,TX,sec_edgar
+REC-0452,"Live Oak Capital LLC",company,400 W 15th St,Austin,TX,county_assessor
+REC-0453,"DFW Property Management Inc",company,5000 Spring Valley Rd,Dallas,TX,county_assessor
+REC-0454,"Bluebonnet Realty Group Inc",company,600 Congress Ave,Austin,TX,county_assessor
+REC-0455,"4521 Elm Holdings LLC",company,4521 Elm St,Dallas,TX,county_assessor
+REC-0456,"Cedar Hill Management LLC",company,700 S Hampton Rd,Dallas,TX,county_assessor
+REC-0457,"Montrose Apartments LLC",company,4100 Montrose Blvd,Houston,TX,county_assessor
+REC-0458,"Mueller Development Group Inc",company,4500 Mueller Blvd,Austin,TX,county_assessor
+REC-0459,"Turtle Creek Investments LP",company,3500 Turtle Creek Blvd,Dallas,TX,county_assessor
+REC-0460,"Memorial Partners LLC",company,9200 Memorial Dr,Houston,TX,county_assessor
+REC-0461,"Rainey Street Holdings LLC",company,80 Rainey St,Austin,TX,county_assessor
+REC-0462,"Galleria Area Holdings Inc",company,5100 Westheimer Rd,Houston,TX,county_assessor
+REC-0463,"Zilker Park Capital LLC",company,1600 Barton Springs Rd,Austin,TX,county_assessor
+REC-0464,"South Congress Realty LLC",company,2400 S Congress Ave,Austin,TX,county_assessor
+REC-0465,John A. Smith,person,4521 Elm St,Dallas,TX,sec_edgar
+REC-0466,Maria Elena Garcia,person,8910 Mockingbird Ln,Houston,TX,sec_edgar
+REC-0467,Robert Lee Johnson,person,2345 Oak Lawn Ave,Dallas,TX,sec_edgar
+REC-0468,David W. Chen,person,1200 McKinney St,Houston,TX,sec_edgar
+REC-0469,James T. Wilson,person,901 Congress Ave,Austin,TX,sec_edgar
+REC-0470,William H. Anderson,person,8800 N Central Expy,Dallas,TX,sec_edgar
+REC-0471,Ronald F. White,person,600 Travis St,Houston,TX,sec_edgar
+REC-0472,Thomas G. Moore,person,1800 E 6th St,Austin,TX,sec_edgar
+REC-0473,Charles E. Harris,person,6200 Hillcrest Ave,Dallas,TX,sec_edgar
+REC-0474,Kenneth R. Scott,person,1100 Louisiana St,Houston,TX,sec_edgar
+REC-0475,Angela Marie Brown,person,3400 Westheimer Rd,Houston,TX,sec_edgar
+REC-0476,Patricia Ann Williams,person,567 Cedar Springs Rd,Dallas,TX,sec_edgar
+REC-0477,Steven P. Walker,person,777 S Lamar Blvd,Austin,TX,sec_edgar
+REC-0478,George M. Washington,person,500 Fannin St,Houston,TX,sec_edgar
+REC-0479,Barbara S. Allen,person,2800 Turtle Creek Blvd,Dallas,TX,sec_edgar
+REC-0480,Dorothy R. Hall,person,3300 Knox St,Dallas,TX,sec_edgar
+REC-0481,Michelle D. Young,person,2200 W 7th St,Fort Worth,TX,sec_edgar
+REC-0482,Lisa M. Taylor,person,1500 Guadalupe St,Austin,TX,sec_edgar
+REC-0483,Sandra L. Martinez,person,7788 Greenville Ave,Dallas,TX,sec_edgar
+REC-0484,Nancy J. Clark,person,950 Bagby St,Houston,TX,sec_edgar
+REC-0485,Jennifer K. Davis,person,3210 Harry Hines Blvd,Dallas,TX,sec_edgar
+REC-0486,Kevin D. Lewis,person,2100 Ross Ave,Dallas,TX,sec_edgar
+REC-0487,Donna Mae Robinson,person,4400 Post Oak Blvd,Houston,TX,sec_edgar
+REC-0488,Michael Ray Thompson,person,455 Lamar Blvd,Austin,TX,sec_edgar
+REC-0489,Carol Ann Jackson,person,9100 N Central Expy,Dallas,TX,sec_edgar
+REC-0490,Stephanie L. King,person,3500 Maple Ave,Dallas,TX,sec_edgar
+REC-0491,Edward J. Wright,person,800 Brazos St,Austin,TX,sec_edgar
+REC-0492,Karen A. Lopez,person,5500 Richmond Ave,Houston,TX,sec_edgar
+REC-0493,Brian C. Turner,person,4100 Cedar Springs Rd,Dallas,TX,sec_edgar
+REC-0494,Amanda R. Phillips,person,700 Lavaca St,Austin,TX,sec_edgar
+REC-0495,Larry T. Nguyen,person,3600 Main St,Houston,TX,sec_edgar
+REC-0496,Eugene P. Collins,person,200 E 6th St,Austin,TX,sec_edgar
+REC-0497,Raymond S. Carter,person,5100 Belt Line Rd,Dallas,TX,county_clerk
+REC-0498,Virginia C. Sanchez,person,3800 S 1st St,Austin,TX,sec_edgar
+REC-0499,"Lone Star Property Holdings LLC",company,100 Crescent Ct,Dallas,TX,sec_edgar
+REC-0500,"Gulf Coast Investments LLC",company,2200 Post Oak Blvd,Houston,TX,sec_edgar
+REC-0501,"Bayou City Holdings LLC",company,2300 Richmond Ave,Houston,TX,county_assessor
+REC-0502,"Deep Ellum Properties LLC",company,2600 Main St,Dallas,TX,county_assessor
